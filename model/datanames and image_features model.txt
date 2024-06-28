@@ -1,0 +1,1 @@
+datanames.pkl and image_features.pkl saved in this directory
